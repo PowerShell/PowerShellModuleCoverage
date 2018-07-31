@@ -15,7 +15,7 @@ Get-Module -ListAvailable
 ```
 
 Specifically, modules that have some level of validation will have the `CompatiblePSEditions` property in its module manifest include `Core` which enables it to show up automatically.
-Over time, we expect many more inbox Windows PowerShell modules to be converted to be compatible and have tehir `CompatiblePSEditions` property updated.
+Over time, we expect many more inbox Windows PowerShell modules to be converted to be compatible and have their `CompatiblePSEditions` property updated.
 
 ## Issues with Windows PowerShell modules on Powershell Core
 
