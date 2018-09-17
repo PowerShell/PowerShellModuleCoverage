@@ -17,11 +17,11 @@ Get-Module -ListAvailable
 Specifically, modules that have some level of validation will have the `CompatiblePSEditions` property in its module manifest include `Core` which enables it to show up automatically.
 Over time, we expect many more inbox Windows PowerShell modules to be converted to be compatible and have their `CompatiblePSEditions` property updated.
 
-## Issues with Windows PowerShell modules on Powershell Core
+## Issues with Windows PowerShell modules on PowerShell Core
 
 This repo is for the purpose of tracking user found issues where a module is not working as expected compared to Windows PowerShell 5.1.
 Even with modules that are marked as compatible with PowerShell Core 6.1,
 you may find some issues that were not discovered as part of our validation.
-Please see if an existing issue exists in this repo, 
+Please see if an existing issue exists in this repo 
 and give it a 👍 to vote up its priority.
 If no issue exists, please open one so that we know about it.
