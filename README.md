@@ -1,5 +1,8 @@
 # PowerShell Module Coverage
 
+> _NOTE_ To report problems with modules that ship in Windows, use the Windows Feedback Hub.
+> For more information, see [Send feedback to Microsoft with the Feedback Hub app](https://support.microsoft.com/windows/send-feedback-to-microsoft-with-the-feedback-hub-app-f59187f8-8739-22d6-ba93-f66612949332).
+
 ## Windows PowerShell modules with PowerShell Core 6.1
 
 Starting with [Windows 10 Insiders Build 17711](https://blogs.windows.com/windowsexperience/2018/07/06/announcing-windows-10-insider-preview-build-17711/), changes have been made to inbox Windows PowerShell modules to add compatibility with PowerShell Core 6.
